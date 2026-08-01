@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/fawwazz-z">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=560&lines=Flutter+%26+Dart+Developer;Building+Clean+%26+Responsive+UI;Currently+Preparing+for+Internship+(PKL);Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=560&lines=Flutter+%26+Dart+Developer;Building+Clean+%26+Responsive+UI;Currently+Preparing+for+Internship;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
